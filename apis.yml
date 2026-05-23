@@ -1,0 +1,74 @@
+aid: aurora-innovation
+name: Aurora Innovation
+description: >-
+  Aurora Innovation is a Pittsburgh-headquartered autonomous-vehicle company
+  publicly traded on NASDAQ as AUR. Its core product is the Aurora Driver, a
+  self-driving system designed as a single platform deployable across vehicle
+  classes - first commercialized in long-haul Class 8 trucking through Aurora
+  Horizon, with Aurora Connect intended for ride-hailing applications. The
+  Aurora Driver is integrated into the Volvo VNL Autonomous and PACCAR
+  Peterbilt 579/Kenworth T680 trucks, uses Aurora's proprietary FirstLight FMCW
+  lidar with 450+ metre range, and benefits from a NVIDIA-powered compute
+  platform and Continental hardware partnership. Aurora launched commercial
+  driverless freight operations in Texas in 2025 between Fort Worth, El Paso,
+  Dallas, and Houston, with freight customers including Werner, Hirschbach,
+  Uber Freight, FedEx, Schneider, Ryder, and Toyota Motor North America. Aurora
+  does not publish a public developer API; the public surface is product,
+  safety, and investor material.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2026-05-23'
+modified: '2026-05-23'
+position: B2B
+tags:
+  - Autonomous Vehicles
+  - Autonomous Trucking
+  - Self-Driving
+  - Freight
+  - Lidar
+  - FMCW
+  - NASDAQ
+  - Aurora Driver
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/aurora-innovation/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://aurora.tech
+  - type: AboutUs
+    url: https://aurora.tech/company
+  - type: Newsroom
+    url: https://aurora.tech/newsroom
+  - type: Blog
+    url: https://aurora.tech/blog
+  - type: Safety
+    url: https://aurora.tech/safety
+  - type: Capabilities
+    url: https://aurora.tech/capabilities
+  - type: AuroraDriver
+    url: https://aurora.tech/aurora-driver
+  - type: AuroraHorizon
+    url: https://aurora.tech/aurora-horizon
+  - type: AuroraConnect
+    url: https://aurora.tech/aurora-connect
+  - type: Partners
+    url: https://aurora.tech/partners
+  - type: Careers
+    url: https://aurora.tech/careers
+  - type: InvestorRelations
+    url: https://ir.aurora.tech
+  - type: SECFilings
+    url: https://ir.aurora.tech/financials/sec-filings
+  - type: Contact
+    url: https://aurora.tech/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/aurora-innovation
+  - type: Twitter
+    url: https://twitter.com/aurora_inno
+  - type: YouTube
+    url: https://www.youtube.com/@aurora_inno
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
