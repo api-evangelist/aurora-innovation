@@ -43,7 +43,7 @@ tags:
   - Aurora Driver
 url: >-
   https://raw.githubusercontent.com/api-evangelist/aurora-innovation/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: VulnerabilityDisclosure
